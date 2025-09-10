@@ -8,9 +8,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Linguaggi
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs" />
 </p>
 
 ---
@@ -23,16 +23,4 @@
 </p>
 
 ---
-
-## ✨ Fun Fact
-_"A volte faccio errori di grammatica..."_ 😅  
-
----
-
-## 📬 Contatti
-- 💬 DM aperti qui su [GitHub](https://github.com/easterbones)
-- 📱 Bot PhiShy per WhatsApp in arrivo... stay tuned ⚡
-
----
-
 > 💡 *"Memento Mori."*
