@@ -4,7 +4,7 @@
 ## 🌐 About Me
 - 🧑‍💻 Sto imparando a programmare e studiare il funzionamento dei bot su WhatsApp, telegram e discord
 - 🎮 Ho iniziato un anno fa
-- 🌱 Non posso ancora rendere pubblici i miei repo
+- 🌱 Ho reso pubblico il mio repo più importante a cui non ho ancora finito
 
 ---
 
